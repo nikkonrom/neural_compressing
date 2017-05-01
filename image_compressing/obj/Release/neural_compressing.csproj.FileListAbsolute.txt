@@ -1,0 +1,17 @@
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\image_compressing.exe.config
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\image_compressing.exe
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\image_compressing.pdb
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.dll
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Imaging.dll
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Neuro.dll
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\System.ValueTuple.dll
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Math.dll
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Genetic.dll
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.xml
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Imaging.xml
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Neuro.xml
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Math.xml
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\bin\Release\AForge.Genetic.xml
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\obj\Release\image_compressing.exe
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\obj\Release\image_compressing.pdb
+E:\proga\c#\conf\neuro alg_new_version\image_compressing\obj\Release\neural_compressing.csprojResolveAssemblyReference.cache
