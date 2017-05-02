@@ -76,7 +76,8 @@ namespace HuffmanCoding
         public string Decode(BitArray bits)
         {
             Node current = this.Root;
-            string decoded = "";
+            StringBuilder decoded = new StringBuilder(String.Empty);
+           
 
             foreach (bool bit in bits)
             {
@@ -97,12 +98,12 @@ namespace HuffmanCoding
 
                 if (IsLeaf(current))
                 {
-                    decoded += current.Symbol;
+                    decoded.Append(current.Symbol);
                     current = this.Root;
                 }
             }
 
-            return decoded;
+            return decoded.ToString();
         }
 
         public bool IsLeaf(Node node)
