@@ -1,0 +1,17 @@
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\obj\Debug\neural_compressing.csprojResolveAssemblyReference.cache
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\image_compressing.exe.config
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\image_compressing.exe
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\image_compressing.pdb
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.dll
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Imaging.dll
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Neuro.dll
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\System.ValueTuple.dll
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Math.dll
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Genetic.dll
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.xml
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Imaging.xml
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Neuro.xml
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Math.xml
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\bin\Debug\AForge.Genetic.xml
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\obj\Debug\image_compressing.exe
+C:\Users\jeavr\Documents\GitHub\neural_compressing\image_compressing\obj\Debug\image_compressing.pdb

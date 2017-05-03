@@ -187,6 +187,26 @@ namespace image_compressing
 
         }
 
+        public static double GetMSE(Bitmap image_I, Bitmap image_K)
+        {
+            double MSE = 0;
+
+            for (int i = 0; i < image_I.Width; i++)
+            {
+                for (int j = 0; j < image_I.Height; j++)
+                {
+                    Color color_I = image_I.GetPixel(i, j);
+                    Color color_K = image_K.GetPixel(i, j);
+                    MSE += Math.Pow(color_I.R - color_K.R, 2);
+                    MSE += Math.Pow(color_I.G - color_K.G, 2);
+                    MSE += Math.Pow(color_I.B - color_K.B, 2);
+                }
+            }
+
+            MSE /= 3 * image_I.Width * image_I.Height;
+            return MSE;
+        }
+
         private static (double[][], long[][]) OneDimensionImageClasterize(byte[][] colors, int width, int height)
         {
 
